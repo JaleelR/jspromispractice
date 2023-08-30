@@ -1,0 +1,32 @@
+body {
+  
+    background-color: green;
+    color: white;
+
+
+}
+
+
+.gamediv{ 
+  position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translateX(-50%)translateY(-50%);
+
+}
+
+#draw{
+    position:absolute;
+    left: 25%;
+}
+
+#cards{
+margin-top: 30%;
+width: 100%;
+display: flex;
+justify-content: center;
+}
+
+img {
+
+}
